@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "username": "ah.leonce",
+            "email": "leonceahayo001@gmail.com",
+            "telnumber": "0795214659",
+            "salt": "9606ae5746778a8230c9e342b7c3c742",
+            "passwordHash": "8219f22a731124eeab3ab7deefa611fc8e7bce62fbd6c8c2ffdf961859a84141",
+            "role": "admin",
+            "createdat": "2026-08-18T06:18:07Z",
+            "password": "12345"
+        }
+    ]
+}

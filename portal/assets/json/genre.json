@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gen_6a84206d137dd",
+        "name": "Action",
+        "created_at": "2026-08-18 11:05"
+    },
+    {
+        "id": "gen_6a8450068c1f3",
+        "name": "Drama",
+        "created_at": "2026-08-18 14:28"
+    },
+    {
+        "id": "gen_6a84594655bbd",
+        "name": "Horror",
+        "created_at": "8\/18\/2026 3:08 pm"
+    },
+    {
+        "id": "gen_6a84594d10371",
+        "name": "Romance",
+        "created_at": "8\/18\/2026 3:08 pm"
+    },
+    {
+        "id": "gen_6a8459586c640",
+        "name": "Indian",
+        "created_at": "8\/18\/2026 3:08 pm"
+    },
+    {
+        "id": "gen_6a85671699129",
+        "name": "Comedy",
+        "created_at": "8\/19\/2026 10:19 am"
+    }
+]
